@@ -2,18 +2,19 @@
   "users": [
     {
       "phoneNumber": "1234567890",
-      "subscriptionStart": "2024-01-01",
-      "subscriptionDays": 30
+      "isPermanent": true
     },
     {
       "phoneNumber": "0987654321",
+      "isPermanent": false,
       "subscriptionStart": "2024-01-10",
       "subscriptionDays": 15
     },
     {
       "phoneNumber": "628560780",
+      "isPermanent": false,
       "subscriptionStart": "2024-01-01",
-      "subscriptionDays": 450000
+      "subscriptionDays": 30
     }
   ]
 }
