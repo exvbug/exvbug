@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "phoneNumber": "1234567890",
+      "subscriptionDays": 30,
+      "startDate": "2024-10-01"
+    },
+    {
+      "phoneNumber": "6285607806470",
+      "subscriptionDays": 9999999,
+      "startDate": "2024-10-01"
+    }
+  ]
+}
