@@ -1,14 +1,19 @@
 {
   "users": [
     {
-      "phoneNumber": "6285607806470",
-      "subscriptionStart": "2024-10-01",
-      "subscriptionDays": 9999999999
+      "phoneNumber": "1234567890",
+      "subscriptionStart": "2024-01-01",  // Format YYYY-MM-DD
+      "subscriptionDays": 30
     },
     {
       "phoneNumber": "0987654321",
-      "subscriptionStart": "2024-10-01",
+      "subscriptionStart": "2024-01-10",  // Format YYYY-MM-DD
       "subscriptionDays": 15
+    },
+    {
+      "phoneNumber": "628560780",
+      "subscriptionStart": "2024-01-01",  // Format YYYY-MM-DD
+      "subscriptionDays": 450000
     }
   ]
 }
