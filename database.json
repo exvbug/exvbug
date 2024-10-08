@@ -1,14 +1,14 @@
 {
-  "users": [
+  "owners": [
     {
       "phoneNumber": "1234567890",
-      "isPermanent": true
-    },
+      "isOwner": true
+    }
+  ],
+  "users": [
     {
       "phoneNumber": "0987654321",
-      "isPermanent": false,
-      "subscriptionStart": "2024-01-10",
-      "subscriptionDays": 15
+      "isPermanent": true
     },
     {
       "phoneNumber": "628560780",
