@@ -1,3 +1,4 @@
 //namakode,diskon,limit
 
 starter,10%,1
+free,100%,1
