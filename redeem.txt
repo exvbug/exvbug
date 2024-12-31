@@ -1,3 +1,29 @@
-//namakode,diskon,limit
-
-starter,10%,1
+// Example of how the redeem.txt file should be formatted:
+[
+Namakode
+D/M/Y/Time (mulai)
+D/M/Y/Time (expired)
+limit
+diskon%
+]
+[
+Ryu
+1/1/2025/00.00
+2/1/2025/00.00
+10
+100%
+]
+[
+Mm
+31/1/2025/00.00
+2/1/2025/00.00
+10
+100%
+]
+[
+Ryu
+1/1/2025/00.00
+2/1/2024/00.00
+10
+100%
+]
