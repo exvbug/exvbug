@@ -1,4 +1,3 @@
 //namakode,diskon,limit
 
 starter,10%,1
-NewYear,100%,1
